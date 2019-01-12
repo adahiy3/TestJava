@@ -12,5 +12,11 @@ public class Main {
 
         System.out.println("value of list is" + al);
 
+        al.add("ishaan");
+        al.add("vihaan");
+
+        System.out.println("value of list is" + al);
+
+
     }
 }
