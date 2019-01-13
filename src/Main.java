@@ -17,6 +17,11 @@ public class Main {
 
         System.out.println("value of list is" + al);
 
+        //iterate over the list
+        for (String names: al
+             ) {
+            System.out.println(names);
+        }
 
     }
 }
